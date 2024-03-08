@@ -1,0 +1,245 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1100mV 85C Model Setup 'counter4bit:CNT0|cnt[0]'
+Slack : -45.954
+TNS   : -582.515
+
+Type  : Slow 1100mV 85C Model Setup 'CLOCK_50'
+Slack : -4.720
+TNS   : -95.771
+
+Type  : Slow 1100mV 85C Model Setup 'counter26bit:CNT1SEC|cnt[0]'
+Slack : -3.355
+TNS   : -12.046
+
+Type  : Slow 1100mV 85C Model Hold 'counter4bit:CNT0|cnt[0]'
+Slack : -10.740
+TNS   : -10.740
+
+Type  : Slow 1100mV 85C Model Hold 'CLOCK_50'
+Slack : 0.515
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Hold 'counter26bit:CNT1SEC|cnt[0]'
+Slack : 0.834
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Recovery 'counter4bit:CNT0|cnt[0]'
+Slack : -43.938
+TNS   : -1096.138
+
+Type  : Slow 1100mV 85C Model Recovery 'CLOCK_50'
+Slack : -8.093
+TNS   : -209.532
+
+Type  : Slow 1100mV 85C Model Recovery 'counter26bit:CNT1SEC|cnt[0]'
+Slack : -5.161
+TNS   : -20.627
+
+Type  : Slow 1100mV 85C Model Removal 'counter4bit:CNT0|cnt[0]'
+Slack : 0.169
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'CLOCK_50'
+Slack : 1.120
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Removal 'counter26bit:CNT1SEC|cnt[0]'
+Slack : 1.523
+TNS   : 0.000
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'counter4bit:CNT0|cnt[0]'
+Slack : -10.799
+TNS   : -746.583
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -0.724
+TNS   : -28.790
+
+Type  : Slow 1100mV 85C Model Minimum Pulse Width 'counter26bit:CNT1SEC|cnt[0]'
+Slack : -0.724
+TNS   : -4.524
+
+Type  : Slow 1100mV 0C Model Setup 'counter4bit:CNT0|cnt[0]'
+Slack : -44.383
+TNS   : -566.253
+
+Type  : Slow 1100mV 0C Model Setup 'CLOCK_50'
+Slack : -4.429
+TNS   : -88.925
+
+Type  : Slow 1100mV 0C Model Setup 'counter26bit:CNT1SEC|cnt[0]'
+Slack : -3.369
+TNS   : -11.926
+
+Type  : Slow 1100mV 0C Model Hold 'counter4bit:CNT0|cnt[0]'
+Slack : -10.247
+TNS   : -10.247
+
+Type  : Slow 1100mV 0C Model Hold 'CLOCK_50'
+Slack : 0.181
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Hold 'counter26bit:CNT1SEC|cnt[0]'
+Slack : 0.773
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Recovery 'counter4bit:CNT0|cnt[0]'
+Slack : -42.626
+TNS   : -1064.312
+
+Type  : Slow 1100mV 0C Model Recovery 'CLOCK_50'
+Slack : -7.896
+TNS   : -204.622
+
+Type  : Slow 1100mV 0C Model Recovery 'counter26bit:CNT1SEC|cnt[0]'
+Slack : -4.948
+TNS   : -19.773
+
+Type  : Slow 1100mV 0C Model Removal 'counter4bit:CNT0|cnt[0]'
+Slack : -0.589
+TNS   : -1.710
+
+Type  : Slow 1100mV 0C Model Removal 'CLOCK_50'
+Slack : 0.685
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Removal 'counter26bit:CNT1SEC|cnt[0]'
+Slack : 1.404
+TNS   : 0.000
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'counter4bit:CNT0|cnt[0]'
+Slack : -10.732
+TNS   : -734.030
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -0.724
+TNS   : -28.804
+
+Type  : Slow 1100mV 0C Model Minimum Pulse Width 'counter26bit:CNT1SEC|cnt[0]'
+Slack : -0.724
+TNS   : -4.488
+
+Type  : Fast 1100mV 85C Model Setup 'counter4bit:CNT0|cnt[0]'
+Slack : -24.428
+TNS   : -306.940
+
+Type  : Fast 1100mV 85C Model Setup 'CLOCK_50'
+Slack : -2.772
+TNS   : -57.735
+
+Type  : Fast 1100mV 85C Model Setup 'counter26bit:CNT1SEC|cnt[0]'
+Slack : -1.532
+TNS   : -5.833
+
+Type  : Fast 1100mV 85C Model Hold 'counter4bit:CNT0|cnt[0]'
+Slack : -4.282
+TNS   : -4.282
+
+Type  : Fast 1100mV 85C Model Hold 'CLOCK_50'
+Slack : 0.203
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Hold 'counter26bit:CNT1SEC|cnt[0]'
+Slack : 0.311
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Recovery 'counter4bit:CNT0|cnt[0]'
+Slack : -23.351
+TNS   : -579.336
+
+Type  : Fast 1100mV 85C Model Recovery 'CLOCK_50'
+Slack : -3.442
+TNS   : -88.888
+
+Type  : Fast 1100mV 85C Model Recovery 'counter26bit:CNT1SEC|cnt[0]'
+Slack : -2.149
+TNS   : -8.591
+
+Type  : Fast 1100mV 85C Model Removal 'CLOCK_50'
+Slack : 0.433
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'counter26bit:CNT1SEC|cnt[0]'
+Slack : 0.920
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Removal 'counter4bit:CNT0|cnt[0]'
+Slack : 1.148
+TNS   : 0.000
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'counter4bit:CNT0|cnt[0]'
+Slack : -4.669
+TNS   : -265.906
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -0.086
+TNS   : -2.200
+
+Type  : Fast 1100mV 85C Model Minimum Pulse Width 'counter26bit:CNT1SEC|cnt[0]'
+Slack : 0.037
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Setup 'counter4bit:CNT0|cnt[0]'
+Slack : -21.333
+TNS   : -268.005
+
+Type  : Fast 1100mV 0C Model Setup 'CLOCK_50'
+Slack : -2.271
+TNS   : -46.294
+
+Type  : Fast 1100mV 0C Model Setup 'counter26bit:CNT1SEC|cnt[0]'
+Slack : -1.355
+TNS   : -5.140
+
+Type  : Fast 1100mV 0C Model Hold 'counter4bit:CNT0|cnt[0]'
+Slack : -3.891
+TNS   : -3.891
+
+Type  : Fast 1100mV 0C Model Hold 'CLOCK_50'
+Slack : 0.191
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Hold 'counter26bit:CNT1SEC|cnt[0]'
+Slack : 0.231
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Recovery 'counter4bit:CNT0|cnt[0]'
+Slack : -20.339
+TNS   : -504.639
+
+Type  : Fast 1100mV 0C Model Recovery 'CLOCK_50'
+Slack : -2.961
+TNS   : -76.382
+
+Type  : Fast 1100mV 0C Model Recovery 'counter26bit:CNT1SEC|cnt[0]'
+Slack : -1.836
+TNS   : -7.340
+
+Type  : Fast 1100mV 0C Model Removal 'CLOCK_50'
+Slack : 0.230
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'counter26bit:CNT1SEC|cnt[0]'
+Slack : 0.770
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Removal 'counter4bit:CNT0|cnt[0]'
+Slack : 0.784
+TNS   : 0.000
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'counter4bit:CNT0|cnt[0]'
+Slack : -4.224
+TNS   : -238.178
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'CLOCK_50'
+Slack : -0.088
+TNS   : -2.266
+
+Type  : Fast 1100mV 0C Model Minimum Pulse Width 'counter26bit:CNT1SEC|cnt[0]'
+Slack : 0.062
+TNS   : 0.000
+
+------------------------------------------------------------

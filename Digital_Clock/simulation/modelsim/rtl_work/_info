@@ -1,0 +1,209 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/amroe/Desktop/FULL DESKTOP/Term 5/ECE 5500/LABS/lab_6/simulation/modelsim
+Eclocktest
+Z1 w1680745023
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8C:/Users/amroe/Desktop/FULL DESKTOP/Term 5/ECE 5500/LABS/lab_6/Digital_Clock.vhd
+Z5 FC:/Users/amroe/Desktop/FULL DESKTOP/Term 5/ECE 5500/LABS/lab_6/Digital_Clock.vhd
+l0
+L162
+V5:Qjggd<[ZV;KWR]ccMg12
+!s100 J?AHC5<FXjlQI1K7c]dAd1
+Z6 OV;C;10.5b;63
+31
+Z7 !s110 1680745177
+!i10b 1
+Z8 !s108 1680745177.000000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/amroe/Desktop/FULL DESKTOP/Term 5/ECE 5500/LABS/lab_6/Digital_Clock.vhd|
+Z10 !s107 C:/Users/amroe/Desktop/FULL DESKTOP/Term 5/ECE 5500/LABS/lab_6/Digital_Clock.vhd|
+!i113 1
+Z11 o-93 -work work
+Z12 tExplicit 1 CvgOpt 0
+Atb
+R2
+R3
+DEx4 work 9 clocktest 0 22 5:Qjggd<[ZV;KWR]ccMg12
+l188
+L165
+VHJ0SMhC]MN>@khcRjO1Dl1
+!s100 [AR0>0]m[?f2>U6O_NU>M1
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ecounter26bit
+R1
+Z13 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R2
+R3
+R0
+R4
+R5
+l0
+L23
+V5b[RXkRPg>E6g[5o9GNgP3
+!s100 :8HcLTdBeWIHZfdOS:K<b3
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Artl
+R13
+R2
+R3
+DEx4 work 12 counter26bit 0 22 5b[RXkRPg>E6g[5o9GNgP3
+l31
+L29
+V^Ge<5P]M_d3fIOc04KJ;@1
+!s100 z?QJEXU3U4an`f1b;WXDY3
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ecounter4bit
+R1
+R13
+R2
+R3
+R0
+R4
+R5
+l0
+L48
+VX4LHh2cMKT7W;ETQVOYF]1
+!s100 EEE_]X?I603e3zjdgBOD00
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Artl
+R13
+R2
+R3
+DEx4 work 11 counter4bit 0 22 X4LHh2cMKT7W;ETQVOYF]1
+l56
+L54
+VQ>_IQA9IK0mI0CCW;h`j=2
+!s100 OAV`gzzI]W;gKmcN@:Oh42
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Edigital_clock
+R1
+R2
+R3
+R0
+R4
+R5
+l0
+L73
+VAFTV8EA0z99bE5@5z=ZBL0
+!s100 A^Z]FI[P0NnzIDC_4MB>i1
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Abehaviour
+R2
+R3
+DEx4 work 13 digital_clock 0 22 AFTV8EA0z99bE5@5z=ZBL0
+l108
+L87
+Va?C3Y[YS5R]W_knGMDC7H2
+!s100 ejWFe9>mYRzVKoLN3@5>23
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eseg7dec
+R1
+R2
+R3
+R0
+R4
+R5
+l0
+L3
+V2BB9ULMm:QhG?6A^RQWnk3
+!s100 SFH7LaD:Qo]AM>VboQjIb0
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Adecoding
+R2
+R3
+DEx4 work 7 seg7dec 0 22 2BB9ULMm:QhG?6A^RQWnk3
+l9
+L8
+V]B580P>HMn:60:WWPN=7Q0
+!s100 YaVz?kb5OA=YDoV=ae;o<3
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
